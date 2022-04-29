@@ -1,0 +1,25 @@
+body{
+  background-color: bisque;
+}
+
+.main{
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+  grid-auto-rows: 300px;
+  column-gap: 2px;
+  row-gap: 5px;
+}
+.nima{
+  border: 2px solid black;
+}
+
+.nimam{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+  row-gap: 5px;
+
+}
+.nima1{
+  border: 2px solid green;
+}

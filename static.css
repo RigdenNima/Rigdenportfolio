@@ -1,0 +1,38 @@
+.Rimg{
+  width: 100%;
+}
+
+.pic0{
+  display: flex;
+  width: 100%;
+}
+.pic2{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.pic3{
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.pic1>img{
+  height: 400px;
+  width: 30%;
+}
+
+.heading{
+  text-align: center;
+  font-size: larger
+}
+a>li{
+  border: 1px;
+  width: 100px;
+  background-color: antiquewhite; 
+  
+}
+img{
+  height: 400px;
+}

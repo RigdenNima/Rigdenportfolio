@@ -1,0 +1,65 @@
+ol{
+  display: flex;
+  font-size: xx-large;
+  justify-content: space-evenly;
+  background-image: url(./back.jpg);
+  list-style: none;
+  font-style: italic;
+  
+}
+
+
+body{
+  background-image: url(./zwCETTo.jpg);
+}
+
+.top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul{
+  
+  list-style: none;
+}
+
+image{
+  display: grid;
+  grid-template-columns: max-content ;
+  grid-auto-rows: 100px;
+}
+
+.dp>img{
+  width: 150px;
+  height: 150px;
+  border-radius: 125px; 
+}
+
+.icon{
+  display: flex;
+  justify-content: space-around;
+}
+
+.icon>ul>li>img{
+  height: 40px;
+  width: 40px;
+  justify-content: spassce-between;
+
+}
+.details{
+  height: 100px;
+  width: 100px;
+
+}
+
+.icon>ul{
+  display: flex;
+}
+
+.main{
+  display: flex;
+}
+
+
+

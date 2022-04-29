@@ -1,0 +1,42 @@
+.main{
+  display: flex;
+}
+.imgh{
+  width: 30%;
+  height: 500px;
+}
+.big{
+  height: 100%;
+  width: 100%;
+}
+.mid{
+  height: 75%;
+  width: 75%;
+}
+.small{
+  height: 50%;
+  width: 50%;
+}
+
+.main2{
+  display: flex;
+  margin-top: 100%;
+}
+
+.img1{
+  width: 30%;
+  height: 500px;
+}
+.small{
+  height: 100%;
+  width: 100%;
+}
+.mid{
+  height: 75%;
+  width: 75%;
+}
+.big{
+  height: 50%;
+  width: 50%;
+}
+
